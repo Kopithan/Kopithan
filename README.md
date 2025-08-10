@@ -3,8 +3,10 @@
 🎓 I'm an undergraduate student at the **University of Moratuwa**,  
 pursuing a degree in **Electronic & Telecommunication Engineering**.
 
-🚀 My passion lies at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and Robotics**.  
-I enjoy working on projects that combine **hardware and software** to create innovative solutions — from **IoT systems** to **autonomous robotics**.
+🚀 My passion lies in Embedded Systems, Firmware Development, and Hardware Integration,
+with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision.
+I enjoy building innovative solutions that seamlessly combine hardware and software — from
+low-level microcontroller programming to IoT systems and autonomous robotics.
 
 ---
 
