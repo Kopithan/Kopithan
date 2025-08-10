@@ -35,7 +35,6 @@ low-level microcontroller programming to IoT systems and autonomous robotics.
 ### 🧠 AI / Machine Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
@@ -43,6 +42,7 @@ low-level microcontroller programming to IoT systems and autonomous robotics.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?logo=intel&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?logo=dassaultsystemes&logoColor=white)
 
 
 ## 📊 GitHub Stats
